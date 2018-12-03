@@ -1,0 +1,5 @@
+# 起别名的案例
+import p01 as p
+
+stu = p.Student("小三傻", 20)
+stu.say()
